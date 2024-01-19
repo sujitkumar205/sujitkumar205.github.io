@@ -1,4 +1,4 @@
-# Sujit Kumar Kamaraj
+# Data Science Enthusiast
 
 ## About Me
 I'm a master's student at the Kahlert School of Computing, University of Utah, focusing on data science research. Currently, I am harnessing the power of climate data to tackle real-world issues in different communities.
