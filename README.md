@@ -1,4 +1,4 @@
-# About Me
+## About Me
 I'm a master's student at the Kahlert School of Computing, University of Utah, focusing on data science research. Currently, I am harnessing the power of climate data to tackle real-world issues in different communities.
 
 I am dedicated to utilizing the insights gained from data and research as catalysts for positive change. Through my journey in academia, I aspire to harness the power of information to contribute meaningfully to the betterment of our community and address pressing challenges with data-driven solutions.
